@@ -1,0 +1,2 @@
+debian/bin/universaldigitalcoind usr/bin
+src/universaldigitalcoind usr/lib/universaldigitalcoin
