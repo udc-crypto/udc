@@ -1,7 +1,6 @@
+Universal Digital Coin is a peer-to-peer Internet currency and an open source, global payment network.
 
-UniversalDigitalCoin development tree
-
-UniversalDigitalCoin is a PoS-based cryptocurrency.
+UniversalDigitalCoin development tree.
 
 Development process
 ===========================
