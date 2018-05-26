@@ -1,4 +1,4 @@
-Universal Digital Coin is a peer-to-peer Internet currency and an open source, global payment network.
+Universal Digital Coin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Universal Digital Coin is an open source, global payment network that is fully decentralized without any central authorities. Mathematics secures the network and empowers individuals to control their own finances.
 
 UniversalDigitalCoin development tree.
 
